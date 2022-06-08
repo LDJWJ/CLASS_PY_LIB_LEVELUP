@@ -13,6 +13,11 @@
    * [code 01](./02_PYTHON/01_03_tkinter/01_tk_dict01.py)
    * [code 02](./02_PYTHON/01_04_address_search.py)
 
+### PART 02. 파이썬 기본 라이브러리
+ * 파이썬 시각화 라이브러리 - matplotlib
+   * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01]
+   * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02]
+
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
    * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
