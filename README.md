@@ -1,6 +1,17 @@
 # CLASS_PY_LIB_LEVELUP
 파이썬 프로젝트. 공공데이터 분석
 
+### PART 01. 파이썬 기본 및 프로그래밍
+ * 파이썬 전체 리뷰
+   * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
+
+ * 엑셀 다루기
+   * [PDF 01](./02_PYTHON/01_02A_project_excel.pdf), [HTML 01]
+   * [PDF 02](./02_PYTHON/01_02B_project_excel.pdf), [HTML 02]
+
+ * GUI - Tkinter
+   * [code 01](./02_PYTHON/01_03_tkinter/01_tk_dict01.py)
+   * [code 02](./02_PYTHON/01_04_address_search.py)
 
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
