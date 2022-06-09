@@ -14,6 +14,10 @@
    * [code 01](./02_PYTHON/01_03_tkinter/01_tk_dict01.py)
    * [code 02](./02_PYTHON/01_04_address_search.py)
 
+ * GUI - 계산기 만들기
+   * [code 01](./02_PYTHON/01_05B_cal.py)
+   * [code 02](./02_PYTHON/01_05C_cal.py)
+
 ### PART 02. 파이썬 기본 라이브러리
  * 파이썬 시각화 라이브러리 - matplotlib
    * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01]
