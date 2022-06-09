@@ -3,7 +3,8 @@
 
 ### PART 01. 파이썬 기본 및 프로그래밍
  * 파이썬 전체 리뷰
-   * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
+   * [PDF 01 - 기본](./02_PYTHON/01_01_python_review.pdf), [HTML 01]
+   * [PDF 02 - 함수모듈](./02_PYTHON/01_04_fnc_lambda_module.pdf), [HTML 01]
 
  * 엑셀 다루기
    * [PDF 01](./02_PYTHON/01_02A_project_excel.pdf), [HTML 01]
