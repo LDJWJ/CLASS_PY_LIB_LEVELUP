@@ -22,7 +22,11 @@
  * 파이썬 시각화 라이브러리 - matplotlib
    * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01]
    * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02]
-
+   
+ * 실전 데이터 처리 및 시각화 - 시간대별 렌탈 자전거 데이터
+   * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01]
+   * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02]
+   
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
    * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
