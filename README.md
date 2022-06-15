@@ -27,7 +27,7 @@
    * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01]
    * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02]
 
- * Pandas 데이터 처리 기본
+ * [Pandas] 데이터 처리 기본
    * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf), [HTML 01]
    * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02]
 
@@ -36,6 +36,9 @@
 
  * [시각화-folium] folium 시작하기
    * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01]
+
+ * [시각화-folium] 전통 시장 위치 정보 시각화
+   * [PDF 02](./03_PY_LIB/05_02_folium_market_colab.pdf), [HTML 02]
 
  * Pandas, folium 부분은 PY_LIB_START 참조
  
