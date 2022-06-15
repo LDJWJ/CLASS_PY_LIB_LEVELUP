@@ -26,7 +26,16 @@
  * 실전 데이터 처리 및 시각화 - 시간대별 렌탈 자전거 데이터
    * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01]
    * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02]
-   
+
+ * Pandas 데이터 처리 기본
+   * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf), [HTML 01]
+   * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02]
+
+ * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
+   * [PDF 03](./03_PY_LIB/04_03_pandas_02_california_0502.pdf), [HTML 03]
+ * Pandas 부분은 PY_LIB_START 참조
+ 
+
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
    * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
