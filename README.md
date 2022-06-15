@@ -33,7 +33,11 @@
 
  * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
    * [PDF 03](./03_PY_LIB/04_03_pandas_02_california_0502.pdf), [HTML 03]
- * Pandas 부분은 PY_LIB_START 참조
+
+ * [시각화-folium] folium 시작하기
+   * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01]
+
+ * Pandas, folium 부분은 PY_LIB_START 참조
  
 
 ### 기타
