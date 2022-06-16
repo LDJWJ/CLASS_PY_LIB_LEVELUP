@@ -3,8 +3,8 @@
 
 ### PART 01. 파이썬 기본 및 프로그래밍
  * 파이썬 전체 리뷰
-   * [PDF 01 - 기본](./02_PYTHON/01_01_python_review.pdf), [HTML 01]
-   * [PDF 02 - 함수모듈](./02_PYTHON/01_04_fnc_lambda_module.pdf), [HTML 01]
+   * [PDF 01 - 기본](./02_PYTHON/01_01_python_review.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_01_python_review.html)
+   * [PDF 02 - 함수모듈](./02_PYTHON/01_04_fnc_lambda_module.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_04_fnc_lambda_module.html)
 
  * 엑셀 다루기
    * [PDF 01](./02_PYTHON/01_02A_project_excel.pdf), [HTML 01]
@@ -20,45 +20,27 @@
 
 ### PART 02. 파이썬 기본 라이브러리
  * 파이썬 시각화 라이브러리 - matplotlib
-   * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01]
-   * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02]
+   * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
+   * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.html)
    
  * 실전 데이터 처리 및 시각화 - 시간대별 렌탈 자전거 데이터
-   * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01]
-   * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02]
+   * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_02_2107.html)
+   * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_03_2107.html)
 
  * [Pandas] 데이터 처리 기본
    * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf), [HTML 01]
-   * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02]
+   * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.html)
 
  * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
-   * [PDF 03](./03_PY_LIB/04_03_pandas_02_california_0502.pdf), [HTML 03]
+   * [PDF 03](./03_PY_LIB/04_03_pandas_02_california_0502.pdf), [HTML 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_0502.html)
 
  * [시각화-folium] folium 시작하기
-   * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01]
+   * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_01_folium_local_2204.html)
 
  * [시각화-folium] 전통 시장 위치 정보 시각화
-   * [PDF 02](./03_PY_LIB/05_02_folium_market_colab.pdf), [HTML 02]
+   * [PDF 02](./03_PY_LIB/05_02_folium_market_colab.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_02_folium_market_colab.html)
 
  * Pandas, folium 부분은 PY_LIB_START 참조
- 
-
- * 실전 데이터 처리 및 시각화 - 시간대별 렌탈 자전거 데이터
-   * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01](02_01_Bike_EDA_02_2107.html)
-   * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02](02_01_Bike_EDA_03_2107.html)
-
- * Pandas 데이터 처리 기본
-   * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf), [HTML 01]
-   * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](04_02_pandas_Basic_2204.html)
-
- * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
-   * [PDF 03](./03_PY_LIB/04_03_pandas_02_california_0502.pdf), [HTML 03](04_03_pandas_02_california_0502.html)
-
- * [시각화-folium] folium 시작하기
-   * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01](05_01_folium_local_2204.html)
-
- * [시각화-folium] 전통 시장 위치 정보 시각화
-   * [PDF 02](./03_PY_LIB/05_02_folium_market_colab.pdf), [HTML 02](05_02_folium_market_colab.html)
 
 
 ### PART 03. 파이썬 머신러닝/실전 데이터 분석
