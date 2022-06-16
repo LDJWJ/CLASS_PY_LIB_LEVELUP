@@ -23,6 +23,34 @@
    * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01]
    * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02]
 
+ * 실전 데이터 처리 및 시각화 - 시간대별 렌탈 자전거 데이터
+   * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01](02_01_Bike_EDA_02_2107.html)
+   * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02](02_01_Bike_EDA_03_2107.html)
+
+ * Pandas 데이터 처리 기본
+   * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf), [HTML 01]
+   * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](04_02_pandas_Basic_2204.html)
+
+ * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
+   * [PDF 03](./03_PY_LIB/04_03_pandas_02_california_0502.pdf), [HTML 03](04_03_pandas_02_california_0502.html)
+
+ * [시각화-folium] folium 시작하기
+   * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01](05_01_folium_local_2204.html)
+
+ * [시각화-folium] 전통 시장 위치 정보 시각화
+   * [PDF 02](./03_PY_LIB/05_02_folium_market_colab.pdf), [HTML 02](05_02_folium_market_colab.html)
+
+
+### PART 03. 파이썬 머신러닝/실전 데이터 분석
+ * [Spaceship Titanic 데이터 분석] [Github 페이지로 이동](https://github.com/LDJWJ/dataAnalysis)
+ * knn/의사결정트리 기본 [Github 페이지로 이동](https://github.com/LDJWJ/ML_Basic_Class)
+    * 머신러닝 알고리즘 knn_회귀
+    * 머신러닝 알고리즘 의사결정트리
+    * 머신러닝 알고리즘 앙상블
+    * [실습] knn_pratice, 머신러닝 - 선형회귀, 
+    * [실습] 머신러닝 - 의사결정트리 03, 머신러닝 - 앙상블_랜덤포레스트(1)-tips
+
+
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
    * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
