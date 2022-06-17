@@ -56,7 +56,9 @@
 ### PART 04. 실전 데이터 분석
  * [캘리포니아 집값 데이터 분석]
  * [Spaceship Titanic 데이터 분석]
+    * 결측치 처리(SimpleImputer), 라벨 인코딩(LabelEncoding), 기본 데이터 처리, Plotly
  * [ibovespa-stocks 브라질 주식 데이터 분석]
+    * 내용 : 머신러닝 모델 만들기, Prophet 활용 모델 만들기
 
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
