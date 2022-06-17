@@ -53,6 +53,11 @@
     * [실습] 머신러닝 - 의사결정트리 03, 머신러닝 - 앙상블_랜덤포레스트(1)-tips
 
 
+### PART 04. 실전 데이터 분석
+ * [캘리포니아 집값 데이터 분석]
+ * [Spaceship Titanic 데이터 분석]
+ * [ibovespa-stocks 브라질 주식 데이터 분석]
+
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
    * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
