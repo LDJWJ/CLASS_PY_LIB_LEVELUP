@@ -51,9 +51,14 @@
     * 머신러닝 알고리즘 앙상블
     * [실습] knn_pratice, 머신러닝 - 선형회귀, 
     * [실습] 머신러닝 - 의사결정트리 03, 머신러닝 - 앙상블_랜덤포레스트(1)-tips
- * 평가지표 [PDF](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch05_validation/ch05_평가지표_v04_202108.pdf)
- * 평가지표 실습(회귀) [이동하기](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_02B_linear_boston_evaluation_v11.html)
 
+
+ * 평가지표 [PDF](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch05_validation/ch05_평가지표_v04_202108.pdf)
+   * 평가지표 실습(회귀) [이동하기](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_02B_linear_boston_evaluation_v11.html)
+   * 평가지표 Classification [이동하기](https://github.com/LDJWJ/ML_Basic_Class)
+     * 평가 - 모델 평가(1), (2), (3), (4)
+
+     
 ### PART 04. 실전 데이터 분석 [Github 페이지로 이동](https://github.com/LDJWJ/dataAnalysis)
  * [캘리포니아 집값 데이터 분석]
  * [Spaceship Titanic 데이터 분석]
