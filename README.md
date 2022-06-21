@@ -66,7 +66,7 @@
  * [ibovespa-stocks 브라질 주식 데이터 분석]
     * 내용 : 머신러닝 모델 만들기, Prophet 활용 모델 만들기
  * 캐글 데이터 타이타닉 실습 - [Link](https://ldjwj.github.io/ML_Basic_Class/)
-    * 성인 인구조사 소득 예측 대회 [Link1](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link2](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html], [Link3](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link4](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_04_2nd.html), [Link5](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_05_1st_review.html)
+    * 성인 인구조사 소득 예측 대회 [Link1](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link2](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link3](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [2nd 분석](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_04_2nd.html), [1st 분석](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_05_1st_review.html)
   
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
