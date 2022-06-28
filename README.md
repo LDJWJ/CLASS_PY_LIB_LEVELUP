@@ -82,7 +82,7 @@
  * 캐글 데이터 타이타닉 실습 - [Link](https://ldjwj.github.io/ML_Basic_Class/)
     * 성인 인구조사 소득 예측 대회 [Link1](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link2](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link3](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [2nd 분석](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_04_2nd.html), [1st 분석](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_05_1st_review.html)
   * [생활] 와인 품질 감별 예측 데이터 분석 및 모델 만들기
-  * [경제] Santander 고개 만족 분석 데이터 예측 모델 만들기
+  * [경제] Santander 고객 만족 분석 데이터 예측 모델 만들기
   
   
 ### PART 05. 딥러닝 기본 및 활용
@@ -99,30 +99,32 @@
    
  * 실전 데이터 실습
    * Cifar-10 데이터 실습
-     * (실습) CNN 
-   * [영화] 영화 리뷰 데이터 IMDB RNN모델 구현해 보기
+     * (실습) CNN - CIFAR-10 (1), (2)
+   * [ing] [영화] 영화 리뷰 데이터 IMDB RNN모델 구현해 보기
    
    
  * 기본 업그레이드 - 모델 개선 및 활용
    * DROPOUT, 활성화 함수의 이해
-     * (자료) 모델 개선(Dropout) 
-     * (실습) MNIST 이미지 데이터 셋 - MNIST 03, 04
-     * (실습) CNN - CNN Upgrade - LeakyRelu
+     * (자료) [딥러닝 기본 및 실습 - PDF] - 모델 개선(Dropout) 
+     * (실습) [MNIST 이미지 데이터 셋] - MNIST 03, MNIST 04
+     * (실습) [CNN] - [CNN Upgrade - LeakyRelu]
      
    * 전이학습의 이해(VGG16 등)
-     * (실습) Cat vs Dog Dataset - CNN(1)~(4)
+     * (실습) [Cat vs Dog Dataset] - CNN(1)~(4)
    
  * Automl의 기본 이해
     * 기본 [HTML](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch08_03_Automl_pycaret01.html), [PDF](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch08_03_Automl_pycaret01.pdf)
     * 실전 데이터 실습
-       * 개고양이 이미지 데이터를 활용한 분류 모델 만들기
+       * [ing] kaggle 데이터 셋으로 실습해 보기
    
- * 딥러닝 자연어 처리
+ * [ing] 딥러닝 자연어 처리
    * WordEmbedding(단어 임베딩) 기본 및 실습
    * 딥러닝 사전 훈련 모델을 활용한 데이터 분석
    
  * GAN 기본 및 딥러닝 응용
-   * 이미지 생성 및 이미지 결합으로 그림의 화풍 적용
+   * 내용 : 이미지 생성 및 이미지 결합으로 그림의 화풍 적용
+   * [자료및 실습] [딥러닝 GAN] - [GAN - 적대적 생성 신경망], [GAN - NeuralStyleTransfer]
+   
 
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
