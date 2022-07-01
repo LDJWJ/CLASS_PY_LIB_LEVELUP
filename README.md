@@ -115,9 +115,8 @@
    
  * Automl의 기본 이해
     * 기본 [HTML](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch08_03_Automl_pycaret01.html), [PDF](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch08_03_Automl_pycaret01.pdf)
-    * 실전 데이터 실습
-       * 어떤 승객이 다른 차원으로 이동될지 예측해보자 - [Spaceship Titanic]
-         [html](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch08_03_Automl_spaceship_titanic_2207.html), [pdf](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch08_03_Automl_spaceship_titanic_2207.pdf)
+    * 실전 데이터 실습 
+       * [과학] 어떤 승객이 다른 차원으로 이동될지 예측 - [Spaceship Titanic]
    
  * [ing] 딥러닝 자연어 처리
    * WordEmbedding(단어 임베딩) 기본 및 실습
