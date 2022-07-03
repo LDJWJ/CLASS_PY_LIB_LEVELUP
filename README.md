@@ -3,7 +3,7 @@
 
 ### 스케줄 [Link](./AI_Project_Goorm_Schedule_Daniel_01.pdf)
 
-### PART 01. 파이썬 기본 및 프로그래밍
+### PART 01. 파이썬 기본 및 실전 프로그래밍
  * 파이썬 전체 리뷰
    * [PDF 01 - 기본](./02_PYTHON/01_01_python_review.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_01_python_review.html)
    * [PDF 02 - 함수모듈](./02_PYTHON/01_04_fnc_lambda_module.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_04_fnc_lambda_module.html)
