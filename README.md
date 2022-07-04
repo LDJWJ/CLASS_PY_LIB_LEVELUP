@@ -135,5 +135,5 @@
 
 ### 기타
  * Visual Studio Code 설치 [Window 환경]
-   * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML 01]
-   * [PDF 02](./01_START/01_[Window]02_visual_studio_code(2).pdf), [HTML 02]
+   * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/01_START/03_[Window]01_visual_studio_code설치.html)
+   * [PDF 02](./01_START/01_[Window]02_visual_studio_code(2).pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/01_START/03_[Window]02_visual_studio_code설치(2).html)
