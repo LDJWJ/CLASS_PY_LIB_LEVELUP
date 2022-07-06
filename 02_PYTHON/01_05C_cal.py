@@ -19,7 +19,7 @@ w = Tk()
 w.title("간단한 계산기")
 
 # 계산기 표시창
-cal_win = Entry(w, width=25, bg='yellow', font=("MS Sans Serif 20"))
+cal_win = Entry(w, width=25, bg='yellow', font=("Century 20"))  # Century, MS Sans Serif
 cal_win.grid(row=0, column=0, columnspan=4, sticky="e")
 
 # 버튼 4개 표시해보기
