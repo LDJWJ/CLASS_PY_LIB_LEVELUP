@@ -9,8 +9,8 @@
    * [PDF 02 - 함수모듈](./02_PYTHON/01_04_fnc_lambda_module.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_04_fnc_lambda_module.html)
 
  * 엑셀 다루기
-   * [PDF 01](./02_PYTHON/01_02A_project_excel.pdf), [HTML 01]
-   * [PDF 02](./02_PYTHON/01_02B_project_excel.pdf), [HTML 02]
+   * [PDF 01](./02_PYTHON/01_02A_project_excel_2207.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_02A_project_excel_2207.html)
+   * [PDF 02](./02_PYTHON/01_02B_project_excel_2207.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_02B_project_excel_2207.html)
 
  * GUI - Tkinter
    * [code 01](./02_PYTHON/01_03_tkinter/01_tk_dict01.py)
