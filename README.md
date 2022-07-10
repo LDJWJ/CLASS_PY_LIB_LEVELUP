@@ -30,7 +30,7 @@
    * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_03_2107.html)
 
  * [Pandas] 데이터 처리 기본
-   * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf), [HTML 01]
+   * [PDF 01](./03_PY_LIB/04_01_Pandas_기본_v10_2204.pdf)
    * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.html)
 
  * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
