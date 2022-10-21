@@ -5,9 +5,11 @@ import os
 global dat
 
 print(os.getcwd())
+path = "D://Github//CLASS_PY_LIB_LEVELUP_code//02_PYTHON//01_03_tkinter"
+os.chdir(path)
 
 #%%
-dat = pd.read_excel("./dic_excel.xlsx")
+dat = pd.read_excel("dic_excel.xlsx")
 
 # 키 
 def click():

@@ -13,8 +13,10 @@
    * [PDF 02](./02_PYTHON/01_02B_project_excel_2207.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_02B_project_excel_2207.html)
 
  * GUI - Tkinter
-   * [code 01](./02_PYTHON/01_03_tkinter/01_tk_dict01.py)
-   * [code 02](./02_PYTHON/01_04_address_search.py)
+   * [code basic 01](./02_PYTHON/01_03_tkinter/01_tkinter01_start_2210.py)
+   * [code basic 02](./02_PYTHON/01_03_tkinter/01_tkinter02_object_2210.py)
+   * [program 01-자기소개](./02_PYTHON/01_03_tkinter/02_tk01_fileIo_SelfIntroduce_2210.py)
+   * [program 02-공공데이터 검색](./02_PYTHON/01_03_tkinter/02_tk02_dict01.py)
 
  * GUI - 계산기 만들기
    * [code 01](./02_PYTHON/01_05B_cal.py)
