@@ -44,7 +44,9 @@
  * [시각화-folium] 전통 시장 위치 정보 시각화
    * [PDF 02](./03_PY_LIB/05_02_folium_market_2206.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_02_folium_market_2206.html)
 
- * Pandas, folium 부분은 PY_LIB_START 참조
+ * [시각화-plotly] plotly 시작하기
+   * [PDF 01](./03_PY_LIB/03_02_plotly_basic_iplot_2211.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/03_02_plotly_basic_iplot_2211.html)
+
 
 
 ### PART 03. 파이썬 머신러닝/실전 데이터 분석
