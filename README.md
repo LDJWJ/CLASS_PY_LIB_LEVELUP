@@ -50,8 +50,8 @@
 
 
 ### PART 03. 파이썬 머신러닝/실전 데이터 분석
- * [Spaceship Titanic 데이터 분석] [Github 페이지로 이동](https://github.com/LDJWJ/dataAnalysis)
- * knn/의사결정트리 기본 [Github 페이지로 이동](https://github.com/LDJWJ/ML_Basic_Class)
+ * [Spaceship Titanic 데이터 분석] [Github - dataAnalysis](https://github.com/LDJWJ/dataAnalysis)
+ * knn/의사결정트리 기본 [머신러닝 GitHub - ML_Basic_Class](https://github.com/LDJWJ/ML_Basic_Class)
     * 머신러닝 알고리즘 knn_회귀
     * 머신러닝 알고리즘 의사결정트리
     * 머신러닝 알고리즘 앙상블
@@ -59,15 +59,14 @@
     * [실습] 머신러닝 - 의사결정트리 03, 머신러닝 - 앙상블_랜덤포레스트(1)-tips
 
 
- * 평가지표 [PDF](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch05_validation/ch05_평가지표_v04_202108.pdf)
-   * 평가지표 실습(회귀) [이동하기](https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_02B_linear_boston_evaluation_v11.html)
-   * 평가지표 Classification [이동하기](https://github.com/LDJWJ/ML_Basic_Class)
+ * 평가지표
+   * 평가지표 실습(회귀) 
+   * 평가지표 Classification 
      * 평가 - 모델 평가(1), (2), (3), (4)
 
- * 비지도학습
-   * Github Link [이동](https://github.com/LDJWJ/ML_Basic_Class)
+ * 비지도학습 [머신러닝 GitHub - ML_Basic_Class](https://github.com/LDJWJ/ML_Basic_Class)
      * 내용 
-        * 머신러닝 기본 및 실습 - 비지도학습 [pdf](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch03_02_pca/ch03_pca_v01_202110.pdf)
+        * 머신러닝 기본 및 실습 
      * 실습
         * 비지도학습 - PCA 차원 축소
         * 비지도학습 - PCA 얼굴 예제 실습
@@ -77,7 +76,7 @@
     * 추천 시스템 기본 이해
     * [영화] 사용자와 아이템 간의 평점 기반 추천 시스템
 
-### PART 04. 실전 데이터 분석 [Github 페이지로 이동](https://github.com/LDJWJ/dataAnalysis)
+### PART 04. 실전 데이터 분석 [Github - dataAnalysis](https://github.com/LDJWJ/dataAnalysis)
  * [캘리포니아 집값 데이터 분석]
  * [Spaceship Titanic 데이터 분석]
     * 결측치 처리(SimpleImputer), 라벨 인코딩(LabelEncoding), 기본 데이터 처리, Plotly
