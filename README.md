@@ -2,7 +2,7 @@
 
 ### 파이썬 기본 및 실전 프로그래밍 [이동](#PART01-파이썬-기본-및-실전-프로그래밍)
 ### 파이썬 기본 라이브러리 [이동](#PART02-파이썬-기본-라이브러리)
-### PART 03. 파이썬 머신러닝/실전 데이터 분석
+### PART 03. 파이썬 머신러닝/실전 데이터 분석 [이동](#PART03.-파이썬-머신러닝/실전-데이터-분석)
 ### PART 04. 실전 데이터 분석
 ### PART 05. 딥러닝 기본 및 활용
 
@@ -54,7 +54,7 @@
 
 
 
-### PART 03. 파이썬 머신러닝/실전 데이터 분석
+### PART03. 파이썬 머신러닝/실전 데이터 분석
  * [Spaceship Titanic 데이터 분석] [Github - dataAnalysis](https://github.com/LDJWJ/dataAnalysis)
  * knn/의사결정트리 기본 [머신러닝 GitHub - ML_Basic_Class](https://github.com/LDJWJ/ML_Basic_Class)
     * 머신러닝 알고리즘 knn_회귀
