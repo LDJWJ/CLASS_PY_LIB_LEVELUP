@@ -1,14 +1,14 @@
 # 인공지능 AI 기본과정
 
-### 파이썬 기본 및 실전 프로그래밍 [이동](#PART01-파이썬-기본-및-실전-프로그래밍)
-### 파이썬 기본 라이브러리 [이동](#PART02-파이썬-기본-라이브러리)
-### PART 03. 파이썬 머신러닝/실전 데이터 분석 [이동](#PART03-파이썬-머신러닝/실전-데이터-분석)
-### PART 04. 실전 데이터 분석
-### PART 05. 딥러닝 기본 및 활용
+### 파이썬 기본 및 실전 프로그래밍 [이동](#PART_01-파이썬-기본-및-실전-프로그래밍)
+### 파이썬 기본 라이브러리 [이동](#PART_02-파이썬-기본-라이브러리)
+### 파이썬 머신러닝/실전 데이터 분석 [이동](#PART_03-파이썬-머신러닝_실전-데이터-분석)
+### 실전 데이터 분석 [이동](#PART_04-실전-데이터-분석)
+### 딥러닝 기본 및 활용 [이동](#PART_05-딥러닝-기본-및-활용)
 
 ### 스케줄 [Link](./AI_Project_Goorm_Schedule_Daniel_01.pdf)
 
-### PART01 파이썬 기본 및 실전 프로그래밍
+### PART_01 파이썬 기본 및 실전 프로그래밍
  * 파이썬 전체 리뷰
    * [PDF 01 - 기본](./02_PYTHON/01_01_python_review.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_01_python_review.html)
    * [PDF 02 - 함수모듈](./02_PYTHON/01_04_fnc_lambda_module.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_04_fnc_lambda_module.html)
@@ -27,7 +27,7 @@
    * [code 01](./02_PYTHON/01_05B_cal.py)
    * [code 02](./02_PYTHON/01_05C_cal.py)
 
-### PART02 파이썬 기본 라이브러리
+### PART_02 파이썬 기본 라이브러리
  * 파이썬 시각화 라이브러리 - matplotlib
    * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
    * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.html)
@@ -54,7 +54,7 @@
 
 
 
-### PART03 파이썬 머신러닝/실전 데이터 분석
+### PART_03 파이썬 머신러닝_실전 데이터 분석
  * [Spaceship Titanic 데이터 분석] [Github - dataAnalysis](https://github.com/LDJWJ/dataAnalysis)
  * knn/의사결정트리 기본 [머신러닝 GitHub - ML_Basic_Class](https://github.com/LDJWJ/ML_Basic_Class)
     * 머신러닝 알고리즘 knn_회귀
@@ -81,7 +81,8 @@
     * 추천 시스템 기본 이해
     * [영화] 사용자와 아이템 간의 평점 기반 추천 시스템
 
-### PART 04. 실전 데이터 분석 [Github - dataAnalysis](https://github.com/LDJWJ/dataAnalysis)
+### PART_04 실전 데이터 분석 
+ * [Github - dataAnalysis](https://github.com/LDJWJ/dataAnalysis)
  * [캘리포니아 집값 데이터 분석]
  * [Spaceship Titanic 데이터 분석]
     * 결측치 처리(SimpleImputer), 라벨 인코딩(LabelEncoding), 기본 데이터 처리, Plotly
@@ -93,7 +94,7 @@
   * [경제] Santander 고객 만족 분석 데이터 예측 모델 만들기
   
   
-### PART 05. 딥러닝 기본 및 활용
+### PART_05 딥러닝 기본 및 활용
  * 참고 URL : https://github.com/LDJWJ/DL_Basic
  * numpy 기본 이해 
    * (자료) numpy 기본
