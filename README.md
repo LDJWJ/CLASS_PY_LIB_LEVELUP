@@ -1,7 +1,7 @@
 # 인공지능 AI 기본과정
 
-### PART 01. 파이썬 기본 및 실전 프로그래밍  [이동](#PART-01-파이썬-기본-및-실전-프로그래밍)
-### PART 02. 파이썬 기본 라이브러리
+### 파이썬 기본 및 실전 프로그래밍 [이동](#PART-01-파이썬-기본-및-실전-프로그래밍)
+### 파이썬 기본 라이브러리 [이동](PART-02-파이썬-기본-라이브러리)
 ### PART 03. 파이썬 머신러닝/실전 데이터 분석
 ### PART 04. 실전 데이터 분석
 ### PART 05. 딥러닝 기본 및 활용
@@ -27,7 +27,7 @@
    * [code 01](./02_PYTHON/01_05B_cal.py)
    * [code 02](./02_PYTHON/01_05C_cal.py)
 
-### PART 02. 파이썬 기본 라이브러리
+### PART 02 파이썬 기본 라이브러리
  * 파이썬 시각화 라이브러리 - matplotlib
    * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
    * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.html)
