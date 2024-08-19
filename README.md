@@ -30,32 +30,33 @@
 
 ### PART_02 파이썬 기본 라이브러리
  * 데이터 이해 및 시각화
-   * 데이터 기본 이해 [PDF](./03_PY_LIB/00_01_데이터의이해및데이터수집.pdf)
-   * 데이터 시각화 기본 이해 [PDF](./03_PY_LIB/00_02_python_dataVis_m_ver10.pdf)
+   * 데이터 기본 이해 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_01_데이터의이해및데이터수집.pdf)
+   * 데이터 시각화 기본 이해 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_02_python_dataVis_m_ver10.pdf)
+   * 기본 실습 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_basic_Data_Vis_V10.pdf) [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_basic_Data_Vis_v10.html)
 
  * 파이썬 시각화 라이브러리 - matplotlib
-   * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
-   * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.html)
+   * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
+   * [PDF 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.html)
    
  * 실전 데이터 처리 및 시각화 - 시간대별 렌탈 자전거 데이터
-   * [PDF 01](./03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_02_2107.html)
-   * [PDF 02](./03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_03_2107.html)
+   * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_02_2107.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_02_2107.html)
+   * [PDF 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_03_2107.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/02_01_Bike_EDA_03_2107.html)
 
  * [Pandas] 데이터 처리 기본
    * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_01_Pandas_기본_v11_2209.pdf)
-   * [PDF 02](./03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.html)
+   * [PDF 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.html)
 
  * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
    * [PDF 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_2209.pdf), [HTML 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_2209.html)
 
  * [시각화-folium] folium 시작하기
-   * [PDF 01](./03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_01_folium_local_2204.html)
+   * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_01_folium_local_2204.html)
 
  * [시각화-folium] 전통 시장 위치 정보 시각화
-   * [PDF 02](./03_PY_LIB/05_02_folium_market_2206.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_02_folium_market_2206.html)
+   * [PDF 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_02_folium_market_2206.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_02_folium_market_2206.html)
 
  * [시각화-plotly] plotly 시작하기
-   * [PDF 01](./03_PY_LIB/03_02_plotly_basic_iplot_2211.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/03_02_plotly_basic_iplot_2211.html)
+   * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/03_02_plotly_basic_iplot_2211.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/03_02_plotly_basic_iplot_2211.html)
 
 
 
