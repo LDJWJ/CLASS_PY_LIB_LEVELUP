@@ -29,6 +29,10 @@
    * [code 02](./02_PYTHON/01_05C_cal.py)
 
 ### PART_02 파이썬 기본 라이브러리
+ * 데이터 이해 및 시각화
+   * 데이터 기본 이해 [PDF](./03_PY_LIB/00_01_데이터의이해및데이터수집.pdf)
+   * 데이터 시각화 기본 이해 [PDF](./03_PY_LIB/00_02_python_dataVis_m_ver10.pdf)
+
  * 파이썬 시각화 라이브러리 - matplotlib
    * [PDF 01](./03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
    * [PDF 02](./03_PY_LIB/01_matplotlib_B.ipynb), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_B.html)
