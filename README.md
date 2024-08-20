@@ -9,6 +9,10 @@
 
 ### 스케줄 [Link](./AI_Project_Goorm_Schedule_Daniel_01.pdf)
 
+
+### 수업 자료
+ * 텍스트 데이터 분석 기본 및 활용 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/00_텍스트데이터분석기본및활용_V10.pdf)
+
 ### PART_01 파이썬 기본 및 실전 프로그래밍
  * 파이썬 전체 리뷰
    * [PDF 01 - 기본](./02_PYTHON/01_01_python_review.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_01_python_review.html)
@@ -99,7 +103,11 @@
     * 성인 인구조사 소득 예측 대회 [Link1](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link2](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [Link3](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_01_2206.html), [2nd 분석](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_04_2nd.html), [1st 분석](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_05_1st_review.html)
   * [생활] 와인 품질 감별 예측 데이터 분석 및 모델 만들기
   * [경제] Santander 고객 만족 분석 데이터 예측 모델 만들기
-  
+ 
+ * 텍스트 파일 데이터 분석해 보기
+  * 빈도분석    [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석1_빈도분석_V10.html)   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석1_빈도분석_V10.pdf)
+  * 요약해보기   [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석2_요약_V10.html)   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석2_요약_V10.pdf)
+  * 토픽모델링   [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석3_토픽모델링_V10.html)   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석3_토픽모델링_V10.pdf)
   
 ### PART_05 딥러닝 기본 및 활용
  * 참고 URL : https://github.com/LDJWJ/DL_Basic
