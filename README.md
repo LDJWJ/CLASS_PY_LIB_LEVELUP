@@ -161,3 +161,10 @@
  * Visual Studio Code 설치 [Window 환경]
    * [PDF 01](./01_START/01_[Window]01_visual_studio_code.pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/01_START/03_[Window]01_visual_studio_code설치.html)
    * [PDF 02](./01_START/01_[Window]02_visual_studio_code(2).pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/01_START/03_[Window]02_visual_studio_code설치(2).html)
+   * 
+
+
+### LICENSE
+<a href="https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8B%B0%EB%B8%8C_%EC%BB%A4%EB%A8%BC%EC%A6%88_%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/180px-Cc-by-nc-sa_icon.svg.png"></a>
+
+Read more at [Creative Commons](https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8B%B0%EB%B8%8C_%EC%BB%A4%EB%A8%BC%EC%A6%88_%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4).
