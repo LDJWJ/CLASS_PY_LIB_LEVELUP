@@ -105,9 +105,9 @@
   * [경제] Santander 고객 만족 분석 데이터 예측 모델 만들기
  
  * 텍스트 파일 데이터 분석해 보기
-  * 빈도분석    [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석1_빈도분석_V10.html)   [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석1_빈도분석_V10.pdf)
-  * 요약해보기   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석2_요약_V10.html)     [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석2_요약_V10.pdf)
-  * 토픽모델링   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석3_토픽모델링_V10.html) [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/01_텍스트데이터분석3_토픽모델링_V10.pdf)
+  * 빈도분석    [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/텍스트데이터분석1_빈도분석_wc_V11_2504.html)   [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/텍스트데이터분석1_빈도분석_wc_V11_2504.pdf)
+  * 요약해보기   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/텍스트데이터분석2_요약_wc_V11_2504.html)     [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/텍스트데이터분석2_요약_wc_V11_2504.pdf)
+  * 토픽모델링   [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/텍스트데이터분석3_토픽모델링_wc_V11_2504.html) [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/06_DATA_ANALYSIS/텍스트데이터분석3_토픽모델링_wc_V11_2504.pdf)
   
 ### PART_05 딥러닝 기본 및 활용
  * 참고 URL : https://github.com/LDJWJ/DL_Basic
