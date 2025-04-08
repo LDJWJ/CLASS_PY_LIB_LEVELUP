@@ -36,7 +36,7 @@
  * 데이터 이해 및 시각화
    * 데이터 기본 이해 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_01_데이터의이해및데이터수집.pdf)
    * 데이터 시각화 기본 이해 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_02_python_dataVis_m_ver10.pdf)
-   * 기본 실습 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_basic_Data_Vis_V10.pdf) [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_basic_Data_Vis_v10.html)
+   * 기본 실습 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_basic_Data_Vis_v11_2504.pdf) [HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/00_basic_Data_Vis_v11_2504.html)
 
  * 파이썬 시각화 라이브러리 - matplotlib
    * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/01_matplotlib_A.html)
