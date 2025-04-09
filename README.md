@@ -52,7 +52,7 @@
    * [PDF 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.pdf), [HTML 02](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_02_pandas_Basic_2204.html)
 
  * [Pandas] 실전 데이터 처리 - 캘리포니아 집값 데이터 분석
-   * [PDF 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_2209.pdf), [HTML 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_2209.html)
+   * [PDF 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_2504.pdf), [HTML 03](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/04_03_pandas_02_california_2504.html)
 
  * [시각화-folium] folium 시작하기
    * [PDF 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_01_folium_local_2204.pdf), [HTML 01](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/03_PY_LIB/05_01_folium_local_2204.html)
