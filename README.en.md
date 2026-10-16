@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/README.en.html">
-    <img src="https://img.shields.io/badge/🌐_Open_Web_Textbook-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web Page"/>
+    <img src="https://img.shields.io/badge/🌐_Web_Textbook-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web Page"/>
   </a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/Machine_Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
@@ -16,7 +16,7 @@
 > Systematically master Excel automation and GUI (Tkinter) development, exploration of public and time-series data, machine learning optimization, and modern deep learning models for computer vision and natural language processing.  
 > ⭐️ If this helped your learning, please give the **Star** button at the top right a press!
 
-> **Note:** All slides and notebooks (PDF/HTML) are written in Korean. The code runs the same in any language, and your browser's built-in translation (e.g. Chrome) works on the HTML pages.
+> **Note:** All slides and notebooks (PDF/HTML) are in Korean. The code itself is language-independent, and your browser's built-in translation (e.g. Chrome) works on the HTML pages.
 
 <p align="center">
   <a href="#️-complete-learning-roadmap">🗺️ Learning Roadmap</a> •

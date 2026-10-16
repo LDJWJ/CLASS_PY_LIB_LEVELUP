@@ -14,15 +14,15 @@
 
 > **Pythonの応用プログラミングからビッグデータ分析、機械学習、ディープラーニング（CNN/RNN/GAN）まで走り抜ける総合実践コースです！**  
 > Excel自動化とGUI（Tkinter）制作、公共データ・時系列データの探索、機械学習の最適化、最新のディープラーニングによるコンピュータビジョンと自然言語処理モデルを体系的にマスターします。  
-> ⭐️ 学習のお役に立ちましたら、右上の **Star** ボタンをぜひ押してください！
+> ⭐️ 役に立ったら、右上の **Star** ボタンを押していただけるとうれしいです！
 
-> **ご注意：** 教材（PDF/HTML）はすべて **韓国語** で書かれています。コードはそのまま実行でき、HTMLページはブラウザ（Chromeなど）の自動翻訳で読むことができます。
+> **補足：** 教材（PDF/HTML）はすべて韓国語です。コード自体は言語に依存せずそのまま動作し、HTMLページはブラウザ（Chromeなど）の自動翻訳で読めます。
 
 <p align="center">
   <a href="#️-総合学習ロードマップ">🗺️ 学習ロードマップ</a> •
   <a href="#️-part-01-pythonの基本--実践プログラミング">🖥️ Part 1. Python応用</a> •
   <a href="#-part-02-データ分析--可視化ライブラリ">📊 Part 2. 可視化 & Pandas</a> •
-  <a href="#-part-03-機械学習--レコメンドシステム">🤖 Part 3. 機械学習</a> •
+  <a href="#-part-03-機械学習--推薦システム">🤖 Part 3. 機械学習</a> •
   <a href="#-part-04-実践ビッグデータ--テキスト分析">📈 Part 4. 実践データ</a> •
   <a href="#-part-05-ディープラーニングの基本と応用-cnnrnngan">🧠 Part 5. ディープラーニング</a>
 </p>
@@ -45,9 +45,9 @@ flowchart TD
         F["Foliumによる地理空間可視化 & Plotly"]
     end
 
-    subgraph Part3 ["Part 03. 機械学習 & レコメンドエンジン"]
+    subgraph Part3 ["Part 03. 機械学習 & 推薦エンジン"]
         G["教師あり学習 (KNN, Decision Tree, Random Forest)"]
-        H["教師なし学習 (PCA次元削減) & レコメンドシステム"]
+        H["教師なし学習 (PCA次元削減) & 推薦システム"]
         I["モデル評価指標の最適化"]
     end
 
@@ -90,7 +90,7 @@ flowchart TD
 | **Excel自動化** | PythonによるExcelシートの自動生成とデータ抽出 (1) | [📄 PDF](02_PYTHON/01_02A_project_excel_2207.pdf) · [🌐 HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_02A_project_excel_2207.html) |
 | | 大容量Excelの書式設定とレポートの自動化 (2) | [📄 PDF](02_PYTHON/01_02B_project_excel_2207.pdf) · [🌐 HTML](https://ldjwj.github.io/CLASS_PY_LIB_LEVELUP/02_PYTHON/01_02B_project_excel_2207.html) |
 | **Tkinter GUI開発** | Tkinterの基本ウィジェット & イベントループ | [💻 コード 01](02_PYTHON/01_03_tkinter/01_tkinter01_start_2210.py) · [💻 コード 02](02_PYTHON/01_03_tkinter/01_tkinter02_object_2210.py) |
-| | [実践GUI] ファイル入出力による自己紹介書プログラム | [💻 ソースコード](02_PYTHON/01_03_tkinter/02_tk01_fileIo_SelfIntroduce_2210.py) |
+| | [実践GUI] ファイル入出力による自己紹介文プログラム | [💻 ソースコード](02_PYTHON/01_03_tkinter/02_tk01_fileIo_SelfIntroduce_2210.py) |
 | | [実践GUI] 公共データ検索アプリケーション | [💻 ソースコード](02_PYTHON/01_03_tkinter/02_tk02_dict01.py) |
 | | [実践GUI] デスクトップ電卓プログラムの完成 | [💻 ソースコード 1](02_PYTHON/01_05B_cal.py) · [💻 ソースコード 2](02_PYTHON/01_05C_cal.py) |
 
@@ -112,18 +112,18 @@ flowchart TD
 
 ---
 
-## 🤖 PART 03. 機械学習 & レコメンドシステム
+## 🤖 PART 03. 機械学習 & 推薦システム
 
-構造化データの分類・回帰モデリング、教師なし学習、レコメンドアルゴリズムを実装します。
+構造化データの分類・回帰モデリング、教師なし学習、推薦アルゴリズムを実装します。
 
 * **教師あり学習モデリング (KNN, Tree, Ensemble)**:
   * k近傍法（KNN）& 決定木アルゴリズム: [機械学習リポジトリへ](https://github.com/LDJWJ/ML_Basic_Class)
   * アンサンブル学習・ランダムフォレスト（Tipsデータセットで実習）
 * **評価指標 & 検証戦略**:
   * 回帰の評価指標（MSE, RMSE, R²）& 分類の評価指標（Confusion Matrix, Precision/Recall, ROC-AUC）
-* **教師なし学習 & レコメンドエンジン**:
+* **教師なし学習 & 推薦エンジン**:
   * PCA（主成分分析）と顔画像データセットの次元削減の実習
-  * ユーザー×アイテム評価行列にもとづく映画レコメンドシステム（協調フィルタリング）
+  * ユーザー×アイテム評価行列にもとづく映画推薦システム（協調フィルタリング）
 
 ---
 
@@ -133,7 +133,7 @@ flowchart TD
 
 * **Kaggle実践コンペティション分析**:
   * **Spaceship Titanic（宇宙版タイタニック）**: 欠損値の補完（`SimpleImputer`）、ラベルエンコーディング、外れ値の探索
-  * **成人国勢調査（Adult Census）所得予測コンペ**: 上位ソリューション（1位・2位）の分析とモデル最適化 [🌐 分析レビュー](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_05_1st_review.html)
+  * **成人国勢調査（Adult Census）所得予測コンペ**: 上位解法（1位・2位）の分析とモデル最適化 [🌐 分析レビュー](https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/kaggle_contest_4th_05_1st_review.html)
   * **サンタンデール（Santander）顧客満足度予測** & **ワイン品質判別モデル**
 * **時系列株価データ分析 (ibovespa-stocks)**:
   * MetaのProphetライブラリを活用した株価予測の時系列モデリング
